@@ -4,7 +4,6 @@ import random
 import pygame
 import os  
 from Key import Key
-
 SCREEN_WIDTH = 448
 SCREEN_HEIGHT = 535
 pygame.init()
